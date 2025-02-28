@@ -1,6 +1,6 @@
 SCRIPT-LOL
 
-Fiz esse script com intuito de automatizar a aceitação de partida e fase de seleção, sendo a unica coisa que não automatiza é a runa, fique esperto sobre isso.
+Script feito com intuito de automatizar a aceitação de partida e fase de seleção no League Of Legends, sendo a unica coisa que não automatiza é a runa, fique esperto sobre isso.
 
 Como usar:
 Assim que abrir o programa, selecione o personagem que deseja banir, em seguida o personagem que queira jogar. Apos ter selecionado, clique no botão de "Start",
